@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.pageContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  min-height: 100vh;
+}
+
+.footerSection {
+  margin-top: auto;
+  margin-bottom: 30px;
+}
